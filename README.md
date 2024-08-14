@@ -72,7 +72,7 @@ function distanceFromHqInFeet(someValue) {
   ```js
   function distanceTravelledInFeet(start, destination) {
     //returns the number of feet traveled
-  }
+  } 
   ```
 
 - `calculatesFarePrice`: Given the same starting and ending block as the
